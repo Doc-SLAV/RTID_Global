@@ -27,7 +27,12 @@ from emilia.modules.languages import set_language
 PM_START_TEXT = """
 Hi {}, my name is {}! If you have any questions on how to use me, read /help.
 Don't forget follow my channel @sana_album for news update.
-You can find the list of available commands with /help.
+
+You can always find the list of available commands with /help.
+[Add me](https://t.me/sanaTWICEbot?startgroup=new) to your group and i'll manage it.
+
+If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
+And last [STAN TWICE!!!](https://youtu.be/3ymwOvzhwHs) 😘
 """
 
 HELP_STRINGS = """
