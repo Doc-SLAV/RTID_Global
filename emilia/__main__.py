@@ -157,8 +157,7 @@ def start(bot: Bot, update: Update, args: List[str]):
             update.effective_message.reply_text(
                 tl(update.effective_message, PM_START_TEXT).format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 disable_web_page_preview=True,
-                parse_mode=ParseMode.MARKDOWN,
-                reply_markup=buttons)
+                parse_mode=ParseMode.MARKDOWN)
     else:
         update.effective_message.reply_text(tl(update.effective_message, "Ada yang bisa saya bantu? 😊"))
 
