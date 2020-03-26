@@ -161,7 +161,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 [InlineKeyboardButton(text="❓ Help", url="https://t.me/sanaTWICEbot?start=help"), InlineKeyboardButton(text="💖 Donate", url="http://paypal.me/keselekpermen69")]])
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
-                parse_mode='Markdown')
+                parse_mode=ParseMode.MARKDOWN)
     else:
         update.effective_message.reply_text(update.effective_message, "Anything i can help? 😊")
 
