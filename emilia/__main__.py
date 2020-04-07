@@ -26,13 +26,13 @@ from emilia.modules.languages import set_language
 
 PM_START_TEXT = """
 Hi {}, my name is {}! If you have any questions on how to use me, read /help.
-Don't forget follow my channel @sana_album for news update.
 
 You can always find the list of available commands with /help.
 [Add me](https://t.me/sanaTWICEbot?startgroup=new) to your group and i'll manage it.
 
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
-And last [STAN TWICE!!!](https://youtu.be/3ymwOvzhwHs) 😘
+And last [STAN TWICE!!!](https://youtu.be/3ymwOvzhwHs)😘
+@sana_album
 """
 
 HELP_STRINGS = """
@@ -161,8 +161,8 @@ def start(bot: Bot, update: Update, args: List[str]):
                 [InlineKeyboardButton(text="❓ Help", url="https://t.me/sanaTWICEbot?start=help"), InlineKeyboardButton(text="💖 Donate", url="http://paypal.me/keselekpermen69")]])
             update.effective_message.reply_text(
                 tl(update.effective_message, PM_START_TEXT).format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
-                disable_web_page_preview=True,
-                parse_mode=ParseMode.MARKDOWN)
+                parse_mode=ParseMode.MARKDOWN,
+                disable_web_page_preview=True)
     else:
         update.effective_message.reply_text(update.effective_message, "Anything i can help? 😊")
 
