@@ -155,15 +155,14 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             first_name = update.effective_user.first_name
             buttons = InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="🎉 Add me to your group", url="https://t.me/UserbotindoBot?startgroup=new")],
+                [[InlineKeyboardButton(text="🎉 Add me to your group", url="https://t.me/sanaTWICEbot?startgroup=new")],
                 [InlineKeyboardButton(text="💭 Language", callback_data="main_setlang"), InlineKeyboardButton(text="⚙️ Connect Group", callback_data="main_connect")],
-                [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/userbotindo"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/userbotindocloud")],
-                [InlineKeyboardButton(text="❓ Help", url="https://t.me/UserbotindoBot?start=help"), InlineKeyboardButton(text="💖 Donate", url="http://paypal.me/MoveAngel")]])
+                [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/userbotindo"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/sana_album")],
+                [InlineKeyboardButton(text="❓ Help", url="https://t.me/sanaTWICEbot?start=help"), InlineKeyboardButton(text="💖 Donate", url="http://paypal.me/keselekpermen69")]])
             update.effective_message.reply_text(
                 tl(update.effective_message, PM_START_TEXT).format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
-                disable_web_page_preview=True,
                 parse_mode=ParseMode.MARKDOWN,
-                reply_markup=buttons)
+                disable_web_page_preview=True)
     else:
         update.effective_message.reply_text(update.effective_message, "Anything i can help? 😊")
 
