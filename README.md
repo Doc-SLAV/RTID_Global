@@ -1,7 +1,7 @@
 # SANA BOT
 Telegram modular Python bot berjalan di python3 dengan database sqlalchemy.
 
-Based on [marie bot](https://github.com/PaulSonOfLars/tgbot) and [EmiliaHikariBot](https://github.com/AyraHikari/EmiliaHikariBot)
+Based on [marie bot](https://github.com/PaulSonOfLars/tgbot) and [EmiliaHikariBot](https://github.com/AyraHikari/EmiliaHikari)
 
 [Read english README](https://github.com/keselekpermen69/sanabot/blob/master/README.en.md)
 
