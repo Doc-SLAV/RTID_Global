@@ -14,11 +14,11 @@ Awalnya bot manajemen grup sederhana dengan beberapa fitur admin, telah berevolu
 
 #source info
 
-Marie dan saya sedang memoderasi [support group](https://t.me/userbotindo), di mana Anda dapat meminta bantuan untuk mengaturnya
+Marie dan saya sedang memoderasi [support group](https://t.me/RTIDBotDev), di mana Anda dapat meminta bantuan untuk mengaturnya
 bot, temukan / minta fitur baru, laporkan bug, dan tetap di dalam pengulangan setiap kali pembaruan baru tersedia. Tentu saja
 Saya juga akan membantu ketika skema database berubah, dan beberapa kolom tabel perlu dimodifikasi/ditambahkan. Catatan untuk pengelola bahwa semua perubahan skema akan ditemukan dalam pesan commit, dan tanggung jawab mereka untuk membaca setiap commit baru.
 
-Bergabunglah dengan [RTID Team](https://t.me/Republik_TelegramID) jika Anda hanya ingin tetap di loop tentang twice sana.
+Bergabunglah dengan [RTID Team](https://t.me/Republik_TelegramID) jika Anda hanya ingin berbincang-bincang dengan kami.
 
 Kalau tidak, [temukan aku di telegram](https://t.me/Zack_Opp47)! (Simpan semua pertanyaan dukungan dalam obrolan dukungan, tempat lebih banyak orang dapat membantu Anda.)
 
