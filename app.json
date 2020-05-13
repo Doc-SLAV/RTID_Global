@@ -1,6 +1,6 @@
 {
-  "name": "sanaTWICEbot",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "name": "Seller CORONA | RTID™",
+  "description": "Telegram's assist group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
     "best",
@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/keselekpermen69/sanabot",
+  "repository": "hhttps://github.com/zack-opp47/RTID_Global",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -24,7 +24,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "KeselekPermen69"
+      "value": "Zack_Opp47"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -52,7 +52,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/keselekpermen69"
+      "value": "https://www.paypal.me/your_id"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
