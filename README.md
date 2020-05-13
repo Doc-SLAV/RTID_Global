@@ -1,13 +1,13 @@
-# SANA BOT
+# RTID Bot
 Telegram modular Python bot berjalan di python3 dengan database sqlalchemy.
 
 Based on [marie bot](https://github.com/PaulSonOfLars/tgbot) and [EmiliaHikariBot](https://github.com/AyraHikari/EmiliaHikari)
 
-[Read english README](https://github.com/keselekpermen69/sanabot/blob/master/README.en.md)
+[Read english README](https://github.com/zack-opp47/RTID_Global/blob/master/README.en.md)
 
-**If you want to translate this bot**, [please go here](https://github.com/KeselekPermen/sanabot/blob/master/TRANSLATION.md)
+**If you want to translate this bot**, [please go here](https://github.com/zack-opp47/RTID_Global/blob/master/TRANSLATION.md)
 
-Dapat ditemukan di telegram sebagai [SANA 🍭](https://t.me/sanaTWICEbot).
+Dapat ditemukan di telegram sebagai [Seller CORONA | RTID™](https://t.me/Republik_TelegramIDBot).
 
 
 Awalnya bot manajemen grup sederhana dengan beberapa fitur admin, telah berevolusi, menjadi sangat modular dan
@@ -18,9 +18,9 @@ Marie dan saya sedang memoderasi [support group](https://t.me/userbotindo), di m
 bot, temukan / minta fitur baru, laporkan bug, dan tetap di dalam pengulangan setiap kali pembaruan baru tersedia. Tentu saja
 Saya juga akan membantu ketika skema database berubah, dan beberapa kolom tabel perlu dimodifikasi/ditambahkan. Catatan untuk pengelola bahwa semua perubahan skema akan ditemukan dalam pesan commit, dan tanggung jawab mereka untuk membaca setiap commit baru.
 
-Bergabunglah dengan [Sana TWICE](https://t.me/sana_album) jika Anda hanya ingin tetap di loop tentang twice sana.
+Bergabunglah dengan [RTID Team](https://t.me/Republik_TelegramID) jika Anda hanya ingin tetap di loop tentang twice sana.
 
-Kalau tidak, [temukan aku di telegram](https://t.me/KeselekPermen69)! (Simpan semua pertanyaan dukungan dalam obrolan dukungan, tempat lebih banyak orang dapat membantu Anda.)
+Kalau tidak, [temukan aku di telegram](https://t.me/Zack_Opp47)! (Simpan semua pertanyaan dukungan dalam obrolan dukungan, tempat lebih banyak orang dapat membantu Anda.)
 
 Catatan untuk pengelola bahwa semua perubahan skema akan ditemukan dalam pesan komit, dan tanggung jawabnya untuk membaca komitmen baru.
 
