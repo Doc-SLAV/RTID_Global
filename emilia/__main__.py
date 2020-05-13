@@ -155,10 +155,10 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             first_name = update.effective_user.first_name
             buttons = InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="🎉 Add me to your group", url="https://t.me/sanaTWICEbot?startgroup=new")],
+                [[InlineKeyboardButton(text="🎉 Add me to your group", url="https://t.me/FlyingHighOfficial_Bot?startgroup=new")],
                 [InlineKeyboardButton(text="💭 Language", callback_data="main_setlang"), InlineKeyboardButton(text="⚙️ Connect Group", callback_data="main_connect")],
-                [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/userbotindo"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/sana_album")],
-                [InlineKeyboardButton(text="❓ Help", url="https://t.me/sanaTWICEbot?start=help"), InlineKeyboardButton(text="💖 Donate", url="http://paypal.me/keselekpermen69")]])
+                [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/Republik_TelegramID"), InlineKeyboardButton(text="🔔 Update Group", url="https://t.me/RTIDBotDev")],
+                [InlineKeyboardButton(text="❓ Help", url="https://t.me/FlyingHighOfficial_Bot?start=help"), InlineKeyboardButton(text="💖 Donate", url="http://t.me/Zack_Opp47")]])
             update.effective_message.reply_text(
                 tl(update.effective_message, PM_START_TEXT).format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN,
