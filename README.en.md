@@ -1,23 +1,23 @@
-# Emilia
+# Seller CORONA | RTID™
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved into becoming a basis for modular
 bots aiming to provide simple plugin expansion via a simple drag and drop.
 
-**If you want to translate this bot**, [please go here](https://github.com/AyraHikari/EmiliaHikari/blob/master/TRANSLATION.md)
+**If you want to translate this bot**, [please go here](https://github.com/zack-opp47/RTID_Global/blob/master/TRANSLATION.md)
 
-Can be found as [Emilia](https://t.me/EmiliaHikariBot).
+Can be found as [Seller CORONA | RTID™](https://t.me/Republik_TelegramIDBot).
 
-For questions regarding creating your own bot, please head to [support group](https://t.me/TeamNusantaraDevs) where you'll find a
+For questions regarding creating your own bot, please head to [support group](https://t.me/RTIDBotDev) where you'll find a
 group of volunteers to help. We'll also help when a database schema changes, and some table column needs to be
 modified/added (this info can also be found in the commit messages)
 
 
-Join the [news channel](https://t.me/AyraBotNews) if you just want to stay in the loop about new features or
+Join the [news Group](https://t.me/Republik_TelegramID) if you just want to stay in the loop about new features or
 announcements.
 
-Emilia and I can also be found moderating the [support group](https://t.me/TeamNusantaraDevs) aimed at providing help
-setting up Emilia in your chats (*not* for bot clones).
+Seller CORONA | RTID™ and I can also be found moderating the [support group](https://t.me/Republik_TelegramID) aimed at providing help
+setting up this bot in your chats (*not* for bot clones).
 Feel free to join to report bugs, and stay in the loop on the status of the bot development.
 
 Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
