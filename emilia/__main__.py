@@ -28,15 +28,15 @@ PM_START_TEXT = """
 Hi {}, my name is {}! If you have any questions on how to use me, read /help.
 
 You can always find the list of available commands with /help.
-[Add me](https://t.me/sanaTWICEbot?startgroup=new) to your group and i'll manage it.
+[Add me](https://t.me/FlyingHighOfficial_Bot?startgroup=new) to your group and i'll manage it.
 
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
-And last [STAN TWICE!!!](https://youtu.be/3ymwOvzhwHs)😘
-@sana_album
+And last [My Boss!!!](https://t.me/Zack_Opp47)😎
+@RTIDBotDev
 """
 
 HELP_STRINGS = """
-Hey there! My name is **SANA**.
+Hey there! My name is {}.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 """
@@ -46,7 +46,7 @@ DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for my creator to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/keselekpermen69)."""
+There are two ways of paying him; [Telegram DM](t.me/Zack_Opp47)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
